@@ -1,4 +1,4 @@
-# Developing Cloud Native Applicatons on OCI
+# Developing Cloud Native Applications on OCI
 
 In this workshop, we take a real-world situation and continuously improve it starting from the very basics and then increasing the scope gradually. We discuss requirements, make assumptions, work through limitations, and automate individual components with a goal of translating a real-world scenario into a working application. Let me explain further.
 
